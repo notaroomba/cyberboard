@@ -545,8 +545,8 @@
     },
     "net_chain_classes": {},
     "net_chain_netclasses": {},
-    "net_colors": {},
-    "netclass_assignments": {},
+    "net_colors": null,
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -704,7 +704,7 @@
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
-      "version": 2
+      "version": 0
     },
     "tuning_profiles_impedance_geometric": []
   }
